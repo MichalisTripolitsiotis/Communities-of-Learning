@@ -1,0 +1,41 @@
+#logo {
+	height:10%;
+	width:10%;
+}
+
+img{ width: 50%; 
+height: 50%;
+
+}
+
+.table{
+	 margin-bottom: 4rem;
+	}
+	
+.blog-post-title {
+  margin-bottom: .25rem;
+  /*font-size: 1.5rem;*/
+}
+.blog-post-meta {
+  margin-bottom: 1.0rem;
+  color: #999;
+  
+}
+
+.blog-description {
+  font-size: 1.1rem;
+  
+}
+
+.icon-bar img{
+	align-content:center;
+	padding:1px;	
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+body{
+background-color: gba(235,235,235,1.00);	
+}

@@ -1,0 +1,14 @@
+$(document).ready(function()
+	{
+		$('.posts').hide();
+		$('#posts').click(function()
+		{
+			$('.texts').slideUp('slow');
+			$('.posts').slideDown('slow');
+		});
+		$('#texts').click(function()
+		{
+			$('.posts').slideUp('slow');
+			$('.texts').slideDown('slow');
+		});
+	});

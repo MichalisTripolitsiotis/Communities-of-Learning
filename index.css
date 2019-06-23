@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top {
+  margin: 0;
+  position: relative;
+  width: 100%;
+  background-color:rgba(47, 132, 192);
+  height: 100%;
+  opacity: 1;
+  
+}
+.topintro img{
+	height:15vh;
+	width:17vh;
+	margin-right:30px;
+}
+.body{
+	background-color:rgba(231,224,224,1.00);	
+	font:Arial, Helvetica, sans-serif;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#form{
+	background-color:rgba(200,200,200,1.00);
+		
+}
+.titletext{
+	color:white;
+	text-align:center;
+	margin-top:0;
+	font-size:36px;	
+	margin-left:30px;	
+}
+
+
+
+.fade-carousel .slides .slide-1, 
+.fade-carousel .slides .slide-2,
+.fade-carousel .slides .slide-3 {
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.fade-carousel .slides .slide-1 {
+  background-image: url(images/books.jpg);
+   
+}
+.fade-carousel .slides .slide-2 {
+  background-image: url(images/mimi-thian-737711-unsplash.jpg);
+}
+.fade-carousel .slides .slide-3 {
+  background-image: url(images/rawpixel-676878-unsplash.jpg);
+}
+
+.btn.btn-lg {
+	padding: 10px 40px;
+    color: #f5f5f5;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    outline: none;
+    margin: 20px auto;
+	justify-content: center;
+	margin-top:75vh;
+}
+
+.btn.btn-md {
+	padding: 10px 40px;
+    color: #f5f5f5;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    outline: none;
+    margin: 20px auto;
+	justify-content: center;
+}
+
+.fade-carousel .carousel-indicators > li {
+    margin: 0 2px;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    opacity: .7;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+  font-size:55px;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  color: #1abc9c;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  color: #1abc9c;
+}
+
+.col col-md-5{
+	margin-top:200px;	
+}
+
+.fa{
+	font-size:36px;	
+}
+
+
+.container{
+	height:500%;	
+}
+
+#par{
+	font:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size:36px;	
+}
+
+footer{
+	background-color:rgba(47, 132, 192);
+		
+}
+
+a{
+	color:white;	
+}
+
+a:hover{
+		color:rgba(219,219,219,1.00);
+			
+}
+

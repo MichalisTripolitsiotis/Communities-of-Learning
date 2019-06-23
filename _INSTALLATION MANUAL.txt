@@ -1,0 +1,18 @@
+This is the installation manual for the final year project called
+Communities of Learning.
+*It is required to have installed on your machine XAMPP*
+
+1) Import the database to your database. The file is called diss.sql
+2)Copy and paste the whole folder to C:\xampp\htdocs\(diss)
+3)Run the server and the database
+4)Access the page to localhost/diss
+(The last step may change if you have changed the settings of XAMPP
+
+Note: 
+Since all the passwords are hashed the credentials 
+of some users will be provided bellow in order to test the application
+
+Admin: username: ABCD password: 12345
+Staff: username: CSSTAFF password 12345
+Student: username: csstudent password: 12345
+
